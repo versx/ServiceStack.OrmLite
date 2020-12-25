@@ -1,9 +1,7 @@
 using System;
 using NUnit.Framework;
-using ServiceStack.Common.Tests.Models;
 using ServiceStack.DataAnnotations;
 using ServiceStack.OrmLite.MySql.DataAnnotations;
-using ServiceStack.Text;
 
 namespace ServiceStack.OrmLite.MySql.Tests
 {

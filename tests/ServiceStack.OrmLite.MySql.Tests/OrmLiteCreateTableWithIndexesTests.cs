@@ -1,6 +1,5 @@
 using NUnit.Framework;
 using ServiceStack.Text;
-using ServiceStack.Common.Tests.Models;
 
 namespace ServiceStack.OrmLite.MySql.Tests
 {
